@@ -1,0 +1,1 @@
+rootProject.name = "com.appetite.kz.ktor-jwt-auth"
